@@ -65,14 +65,18 @@ router.get('/', async (req, res) => {
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*Follow this wachannel for bot updates*
-_https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+*Follow our channel for bot updates*
+_https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*For more info tap on the link below*
-_https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO_
+*Follow our chat group for bot updates*
+_https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI
 
-_𝑴𝒂𝒅𝒆 𝑩𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔_`
+❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+*For more info contact Beltah Tech 254 🇰🇪*
+
+
+> *POWERED BY BELTAH HACKING TEAM🎭* `
 					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
