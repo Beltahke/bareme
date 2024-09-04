@@ -74,7 +74,7 @@ _https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 *For more info contact Beltah Tech 254 🇰🇪*
-
+_https://wa.link/0ab2wx_
 
 > *POWERED BY BELTAH HACKING TEAM🎭* `
 					
